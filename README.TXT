@@ -1,12 +1,5 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Text-based Chess
+PURPOSE OF PROJECT: Assignment #3 for Sysc2004
+VERSION or DATE: 1
+HOW TO START THIS PROJECT: type "java PlayGame" in cmd after changing directory to where you saved this. A BlueJ file is included for those who use it.
+AUTHORS: Mustafa Abdulmajeed
