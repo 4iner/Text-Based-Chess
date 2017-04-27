@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=player1\ player2
+comment0.target=ChessGame(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ChessGame\r\n\ @param\ player\ 1\ name\r\n\ @param\ player\ 2\ name\r\n
+comment1.params=
+comment1.target=ChessBoard\ getBoard()
+comment1.text=\r\n\ Mutators\ for\ the\ board.\r\n
+comment2.params=board
+comment2.target=void\ setBoard(ChessBoard)
+numComments=3

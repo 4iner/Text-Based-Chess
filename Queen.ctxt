@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=player\ initialLocation\ game
+comment0.target=Queen(boolean,\ ChessLocation,\ ChessGame)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Queen\r\n\ @param\ owner\ (true\ \=\ white,\ false\ \=\ black)\r\n\ @param\ initial\ location\ of\ piece\r\n\ @param\ chess\ game\ this\ piece\ belongs\ to\r\n
+comment1.params=newLocation
+comment1.target=void\ updateThreateningLocation(ChessLocation)
+comment1.text=\r\n\ threatening\ locations\:\ all\ 8\ directions\ around\ q\r\n
+comment2.params=destination
+comment2.target=boolean\ moveTo(ChessLocation)
+comment2.text=\r\n\ if\ in\ one\ of\ 8\ directions,\ move\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ if\ this\ was\ passed\ as\ a\ string\r\n
+numComments=4

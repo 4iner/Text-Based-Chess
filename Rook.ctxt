@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=player\ initialLocation\ game
+comment0.target=Rook(boolean,\ ChessLocation,\ ChessGame)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rook\r\n\ @param\ owner\ (true\ \=\ white,\ false\ \=\ black)\r\n\ @param\ initial\ location\ of\ piece\r\n\ @param\ chess\ game\ this\ piece\ belongs\ to\r\n
+comment1.params=newLocation
+comment1.target=void\ updateThreateningLocation(ChessLocation)
+comment1.text=\r\n\ update\ threatening\ locations\r\n\ @param\ location\ of\ rook\r\n
+comment2.params=destination
+comment2.target=boolean\ moveTo(ChessLocation)
+comment2.text=\ \r\n\ \ Checks\ if\ it\ is\ possible\ to\ move\ this\ piece\ piece\ to\ the\ given\ location.\r\n\ \ @param\ New\ location\ object\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ to\ string\r\n
+numComments=4
